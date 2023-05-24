@@ -2,14 +2,10 @@
 #!/bin/bash
 # Bash Port Scanner
 # Usage ./portscan.sh example.com 1 2000
-
 # ensure /dev/tcp/ support in bash
 cat < /dev/tcp/time.nist.gov/13
 # should get this 55647 11-03-27 15:41:17 50 0 0 75.2 UTC(NIST)*
 
-
-#!/bin/bash
-#populate our variables from the arguments
 host=$1
 startport=$2
 stopport=$3
