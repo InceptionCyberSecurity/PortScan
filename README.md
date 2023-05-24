@@ -1,2 +1,2 @@
 # PortScanBash
- BASH port scanner
+ BASH port scanner for named TCP Ports only.
