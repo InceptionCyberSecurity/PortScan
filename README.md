@@ -1,2 +1,3 @@
 # PortScanBash
- BASH port scanner for named TCP Ports only.
+ BASH port scanner for named TCP and UDP Ports.
+Powershell port scanner
