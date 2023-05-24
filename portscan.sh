@@ -5,10 +5,10 @@
 # ensure /dev/tcp/ support in bash
 cat < /dev/tcp/time.nist.gov/13
 # should get this 55647 11-03-27 15:41:17 50 0 0 75.2 UTC(NIST)*
+#
+# MENU TCP or UDP ports
 
-MENU TCP or UDP ports
-
-/dev/tct 
+/dev/tct
 /dev/udp
 
 
