@@ -1,4 +1,3 @@
-
 #!/bin/bash
 # Bash Port Scanner
 # Usage ./portscan.sh example.com 1 2000
